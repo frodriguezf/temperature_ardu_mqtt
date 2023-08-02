@@ -19,7 +19,7 @@ int        mqttPort     = 1883;
 const char mqttClientID[] = SECRET_MQTT_USERNAME;
 const char mqttUser[] = SECRET_MQTT_USERNAME;
 const char mqttPass[] = SECRET_MQTT_PASSWORD;
-const char mqttTopic[] = "channels/1082634/publish";
+const char mqttTopic[] = SECRET_MQTT_TOPIC;
 
 // Testeado con:
 // - PLACA ESP8266:ESP8266:D1
