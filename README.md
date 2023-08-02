@@ -1,4 +1,7 @@
-# Temperature report to Thingspeak with MQTT
+# Temperature report
+
+Temperature reporting to Thingspeak with MQTT using device WeMos D1 R1 and
+DS18B20 sensor.
 
 ## Libraries
 
